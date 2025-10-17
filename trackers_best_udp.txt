@@ -682,6 +682,7 @@ udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jeremylee.sh:6969/announce
+udp://joczo.duckdns.org:6969/announce
 udp://johnrosen1.com:6969/announce
 udp://jutone.com:6969/announce
 udp://kiryuu-test.mywaifu.best:6969/announce
@@ -752,6 +753,7 @@ udp://pxnet.ru:6969/announce
 udp://qg.lorzl.gq:2710/announce
 udp://r.l5.ca:6969/announce
 udp://region.nl1.privex.cc:6969/announce
+udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.akado-ural.ru:80/announce
 udp://retracker.baikal-telecom.net:2710/announce
