@@ -12,11 +12,10 @@ https://sparkle.ghostchu-services.top/announce
 https://t.audiences.me/announce
 https://t.quic.ws/announce
 https://tr.qfruiti.com/announce
-https://tr2.trkb.ru/announce
 https://tracker.belmult.online/announce
 https://tracker.bt4g.com/announce
+https://tracker.cangku.moe/announce
 https://tracker.cyber-hub.net/announce
-https://tracker.jdx3.org/announce
 https://tracker.keepfrds.com/announce
 https://tracker.qingwa.pro/announce
 https://tracker.totheglory.im/announce
