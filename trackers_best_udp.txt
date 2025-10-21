@@ -144,6 +144,7 @@ udp://182.176.139.129:6969/announce
 udp://184.105.151.166:6969/announce
 udp://184.105.226.26:6969/announce
 udp://185.102.219.163:6969/announce
+udp://185.121.168.244:1337/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
 udp://185.189.13.108:6969/announce
@@ -861,7 +862,6 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.filepit.to:6969/announce
 udp://tracker.files.fm:6969/announce
 udp://tracker.fnix.net:6969/announce
-udp://tracker.fortu.io:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.grepler.com:6969/announce
 udp://tracker.halfchub.club:6969/announce
