@@ -145,6 +145,7 @@ udp://184.105.151.166:6969/announce
 udp://184.105.226.26:6969/announce
 udp://185.102.219.163:6969/announce
 udp://185.121.168.244:1337/announce
+udp://185.121.168.244:6969/announce
 udp://185.181.60.155:80/announce
 udp://185.181.60.67:80/announce
 udp://185.189.13.108:6969/announce
@@ -182,6 +183,7 @@ udp://189.0.78.33:6969/announce
 udp://189.18.127.125:6969/announce
 udp://189.18.127.57:6969/announce
 udp://189.18.162.106:6969/announce
+udp://189.18.162.54:6969/announce
 udp://189.18.96.56:6969/announce
 udp://189.18.97.116:6969/announce
 udp://189.69.167.130:6969/announce
@@ -799,7 +801,6 @@ udp://thagoat.rocks:6969/announce
 udp://themaninashed.com:6969/announce
 udp://theodoric.fr:6969/announce
 udp://thetracker.org:80/announce
-udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tk.cubicview.site:80/announce
 udp://tk1.trackerservers.com:8080/announce
