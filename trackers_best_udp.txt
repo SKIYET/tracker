@@ -653,6 +653,7 @@ udp://dyndns.xionxiii.ovh:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://eccologic.net:6969/announce
 udp://eddie4.nl:6969/announce
+udp://elementsbrowser.com:6969/announce
 udp://engplus.ru:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
