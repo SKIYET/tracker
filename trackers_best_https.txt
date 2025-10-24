@@ -11,7 +11,6 @@ https://t.audiences.me/announce
 https://t.quic.ws/announce
 https://torrent.tracker.durukanbal.com/announce
 https://tr.qfruiti.com/announce
-https://tr2.trkb.ru/announce
 https://tracker.belmult.online/announce
 https://tracker.bt4g.com/announce
 https://tracker.cyber-hub.net/announce
@@ -22,6 +21,6 @@ https://tracker.qingwa.pro/announce
 https://tracker.totheglory.im/announce
 https://tracker.uraniumhexafluori.de/announce
 https://tracker.yemekyedim.com/announce
+https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
-https://www.wareztorrent.com/announce
