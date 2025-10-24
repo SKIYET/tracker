@@ -8,8 +8,6 @@ https://retracker.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.audiences.me/announce
 https://t.quic.ws/announce
-https://torrent.opiums.eu/announce
-https://torrent.tracker.durukanbal.com/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.belmult.online/announce
@@ -24,3 +22,4 @@ https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
+https://www.wareztorrent.com/announce
