@@ -5,7 +5,8 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 12 * * *'
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 env:
   innoextract_version: 1.9
@@ -69,8 +70,10 @@ jobs:
       - name: Commit and Push changes
         run: |
           echo $(date +'%Y%m%d') > date.txt
-          git config --local user.email "admin@adysec.com"
-          git config --local user.name "adysec"
+          # git config --local user.email "admin@adysec.com"
+          # git config --local user.name "adysec"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"  
           git add .
           git commit -am "$(date +'%Y%m%d')"
           git push -v --progress
