@@ -375,6 +375,7 @@ http://34.170.169.34/announce
 http://34.170.169.34:11450/announce
 http://34.170.169.34:1337/announce
 http://34.170.169.34:2710/announce
+http://34.170.169.34:443/announce
 http://34.170.169.34:6960/announce
 http://34.170.169.34:6969/announce
 http://34.52.190.155/announce
