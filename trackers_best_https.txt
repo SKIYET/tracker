@@ -1,5 +1,4 @@
 https://1.tracker.eu.org/announce
-https://1337.abcvg.info/announce
 https://2.tracker.eu.org/announce
 https://3.tracker.eu.org/announce
 https://4.tracker.eu.org/announce
@@ -12,7 +11,6 @@ https://torrent.tracker.durukanbal.com/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.belmult.online/announce
-https://tracker.bt4g.com/announce
 https://tracker.guguan.dpdns.org/announce
 https://tracker.keepfrds.com/announce
 https://tracker.madtia.cc/announce
