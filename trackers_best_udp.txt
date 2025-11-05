@@ -659,7 +659,6 @@ udp://dyndns.xionxiii.ovh:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://eccologic.net:6969/announce
 udp://eddie4.nl:6969/announce
-udp://elementsbrowser.com:6969/announce
 udp://engplus.ru:6969/announce
 udp://epider.me:6969/announce
 udp://evan.im:6969/announce
@@ -744,6 +743,7 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
 udp://open.u-p.pw:6969/announce
 udp://open.xxtor.com:3074/announce
+udp://opentor.org:2710/announce
 udp://opentracker.io:6969/announce
 udp://opentrackr.org:1337/announce
 udp://p4p.arenabg.ch:1337/announce
@@ -886,7 +886,6 @@ udp://tracker.kmzs123.com:17272/announce
 udp://tracker.kmzs123.com:443/announce
 udp://tracker.kmzs123.tk:17272/announce
 udp://tracker.kuroy.me:5944/announce
-udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.lyretain.site:2710/announce
 udp://tracker.merded.xyz:8000/announce
 udp://tracker.mg64.net:2710/announce
