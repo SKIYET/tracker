@@ -17,7 +17,6 @@ https://tracker.cyber-hub.net/announce
 https://tracker.keepfrds.com/announce
 https://tracker.leaves.red/announce
 https://tracker.madtia.cc/announce
-https://tracker.qingwa.pro/announce
 https://tracker.totheglory.im/announce
 https://tracker.uraniumhexafluori.de/announce
 https://tracker.yemekyedim.com/announce
@@ -25,4 +24,3 @@ https://tracker.zhuqiy.com/announce
 https://tracker1.520.jp/announce
 https://tracker2.leaves.red/announce
 https://tracker3.leaves.red/announce
-https://www.wareztorrent.com/announce
