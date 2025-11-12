@@ -832,7 +832,6 @@ udp://trackarr.org:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker-udp.anirena.com:80/announce
 udp://tracker-udp.gbitt.info:80/announce
-udp://tracker-v6.opendev.cloud:8000/announce
 udp://tracker.1048576.cn:17272/announce
 udp://tracker.1337x.org:80/announce
 udp://tracker.1h.is:1337/announce
