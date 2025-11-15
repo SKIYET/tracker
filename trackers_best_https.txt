@@ -1,4 +1,5 @@
-https://bt.beatrice-raws.org/announce
+https://1337.abcvg.info/announce
+https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.audiences.me/announce
@@ -13,8 +14,10 @@ https://tr2.trkb.ru/announce
 https://tracker-zhuqiy.dgj055.icu/announce
 https://tracker.belmult.online/announce
 https://tracker.bt4g.com/announce
+https://tracker.cyber-hub.net/announce
 https://tracker.keepfrds.com/announce
 https://tracker.leaves.red/announce
+https://tracker.qingwa.pro/announce
 https://tracker.totheglory.im/announce
 https://tracker.uraniumhexafluori.de/announce
 https://tracker.yemekyedim.com/announce
