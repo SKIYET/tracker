@@ -1272,6 +1272,7 @@ https://api.ipv4online.uk/announce
 https://atrack.pow7.com/announce
 https://bittorrent.gongt.net/announce
 https://bittorrent.service.gongt.me:59443/announce
+https://bittracker.nekosunevr.co.uk/announce
 https://bot.ponomar-sibir.ru/announce
 https://bruisedfumblingmotion.sddsdsdsddsdss.repl.co/announce
 https://bt.080609.xyz/announce
