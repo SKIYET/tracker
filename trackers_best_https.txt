@@ -5,7 +5,6 @@ https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.audiences.me/announce
 https://t.quic.ws/announce
-https://torrent.tracker.durukanbal.com/announce
 https://tr-rh-zhuqiy.dgj055.icu/announce
 https://tr-zhuqiy-1.dgj055.icu/announce
 https://tr-zhuqiy-2.dgj055.icu/announce
