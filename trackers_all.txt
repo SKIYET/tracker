@@ -446,6 +446,7 @@ http://4.tracker.devnak.win:6969/announce
 http://43.139.20.56:6969/announce
 http://44.30.4.3:6969/announce
 http://44.30.4.4:6969/announce
+http://44.30.4.70:6969/announce
 http://45.13.119.213:6969/announce
 http://45.146.254.59/announce
 http://45.154.253.10/announce
