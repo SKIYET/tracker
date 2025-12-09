@@ -828,6 +828,7 @@ udp://thagoat.rocks:6969/announce
 udp://themaninashed.com:6969/announce
 udp://theodoric.fr:6969/announce
 udp://thetracker.org:80/announce
+udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tk.cubicview.site:80/announce
 udp://tk1.trackerservers.com:8080/announce
@@ -957,9 +958,11 @@ udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.uw0.xyz:6969/announce
 udp://tracker.v6speed.org:6969/announce
 udp://tracker.vanitycore.co:6969/announce
+udp://tracker.vds.nz:6969/announce
 udp://tracker.vraphim.com:6969/announce
 udp://tracker.waaa.moe:6969/announce
 udp://tracker.wepzone.net:6969/announce
+udp://tracker.x6c.co:6969/announce
 udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.ygsub.com:6969/announce
 udp://tracker.ykat.xyz:6969/announce
