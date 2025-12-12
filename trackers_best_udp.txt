@@ -781,7 +781,6 @@ udp://pow7.com:80/announce
 udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 udp://public.demonoid.ch:6969/announce
-udp://public.popcorn-tracker.org:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
 udp://pxnet.ru:6969/announce
 udp://qg.lorzl.gq:2710/announce
@@ -834,8 +833,6 @@ udp://thetracker.org:80/announce
 udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tk.cubicview.site:80/announce
-udp://tk1.trackerservers.com:8080/announce
-udp://tk2.trackerservers.com:8080/announce
 udp://torrent.fedoraproject.org:6969/announce
 udp://torrent.hificode.in:6969/announce
 udp://torrent.ubuntu.com:6969/announce
