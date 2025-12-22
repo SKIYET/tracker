@@ -27,7 +27,6 @@ http://bithq.org/announce
 http://bt.3kb.xyz/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
-http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://btx.anifilm.tv/announce
@@ -36,7 +35,6 @@ http://extracker.dahrkael.net:6969/announce
 http://grifon.info/announce
 http://h4.trakx.nibba.trade/announce
 http://i.bandito.org/announce
-http://irrenhaus.dyndns.dk/announce
 http://kinorun.com/announce
 http://nagios.tks.sumy.ua/announce
 http://open.acgtracker.com:1096/announce
@@ -66,7 +64,6 @@ http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.openzim.org/announce
-http://tracker.pcfreetime.com:6969/announce
 http://tracker.tfile.co/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
@@ -84,7 +81,6 @@ http://tracker5.torrentino.com/announce
 http://uatracker.net/announce
 http://www.all4nothin.net/announce
 http://www.ansktracker.net/announce
-http://www.bitseduce.com/announce
 http://www.siambt.com/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
