@@ -4,6 +4,7 @@ http://1337.abcvg.info/announce
 http://185.230.4.150:1337/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
+http://all4nothin.net/announce
 http://big-boss-tracker.net/announce
 http://bithq.org/announce
 http://bt.3kb.xyz/announce
@@ -26,7 +27,6 @@ http://peersteers.org/announce
 http://retracker.joxnet.ru/announce
 http://retracker.ohys.net/announce
 http://retracker.x2k.ru/announce
-http://rotracker.ohys.net/announce
 http://rstracker.ohys.net/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
@@ -62,6 +62,7 @@ http://tracker5.torrentino.com/announce
 http://trackers.ibzu.me/announce
 http://uatracker.net/announce
 http://www.ansktracker.net/announce
+http://www.bitseduce.com/announce
 http://www.siambt.com/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
