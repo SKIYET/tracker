@@ -15,7 +15,6 @@ https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
 https://tracker.cyber-hub.net/announce
-https://tracker.guguan.dpdns.org/announce
 https://tracker.iochimari.moe/announce
 https://tracker.keepfrds.com/announce
 https://tracker.renfei.net/announce
