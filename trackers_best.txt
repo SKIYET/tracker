@@ -1,11 +1,9 @@
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
+http://1337.abcvg.info/announce
 http://185.230.4.150:1337/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
-http://54.39.98.124/announce
-http://93.88.129.16/announce
-http://all4nothin.net/announce
 http://big-boss-tracker.net/announce
 http://bithq.org/announce
 http://bt.3kb.xyz/announce
@@ -18,6 +16,7 @@ http://btx.anifilm.tv/announce
 http://extracker.dahrkael.net:6969/announce
 http://h4.trakx.nibba.trade/announce
 http://i.bandito.org/announce
+http://irrenhaus.dyndns.dk/announce
 http://kinorun.com/announce
 http://nagios.tks.sumy.ua/announce
 http://open.acgtracker.com:1096/announce
@@ -41,7 +40,6 @@ http://tracker-udp.anirena.com/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
-http://tracker.dm258.cn:7070/announce
 http://tracker.enitin.xyz/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
@@ -52,7 +50,7 @@ http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.tricitytorrents.com:2710/announce
 http://tracker.waaa.moe:6969/announce
-http://tracker.xfapi.top:7070/announce
+http://tracker.xfapi.top:9999/announce
 http://tracker.zhuqiy.top/announce
 http://tracker1.torrentino.com/announce
 http://tracker2.torrentino.com/announce
@@ -62,10 +60,11 @@ http://tracker5.torrentino.com/announce
 http://trackers.ibzu.me/announce
 http://uatracker.net/announce
 http://www.ansktracker.net/announce
+http://www.bitseduce.com/announce
 http://www.siambt.com/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
-http://www.zone-torrent.net/announce
+https://1337.abcvg.info/announce
 https://bt.beatrice-raws.org/announce
 https://bt.ptlsp.com/announce
 https://retracker.x2k.ru/announce
@@ -74,7 +73,6 @@ https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
 https://t.quic.ws/announce
-https://torrent.tracker.durukanbal.com/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
@@ -969,7 +967,6 @@ udp://thagoat.rocks:6969/announce
 udp://themaninashed.com:6969/announce
 udp://theodoric.fr:6969/announce
 udp://thetracker.org:80/announce
-udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tk.cubicview.site:80/announce
 udp://torrent.fedoraproject.org:6969/announce
