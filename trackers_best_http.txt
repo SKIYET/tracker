@@ -22,7 +22,6 @@ http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
 http://kinorun.com/announce
 http://nagios.tks.sumy.ua/announce
-http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://p4p.arenabg.com:1337/announce
 http://peersteers.org/announce
