@@ -5,7 +5,6 @@ http://185.230.4.150:1337/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
 http://all4nothin.net/announce
-http://asiatorrent.giize.com:51413/announce
 http://big-boss-tracker.net/announce
 http://bithq.org/announce
 http://bt.3kb.xyz/announce
@@ -14,8 +13,6 @@ http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
-http://btx.anifilm.tv/announce
-http://data-bg.net/announce
 http://extracker.dahrkael.net:6969/announce
 http://h4.trakx.nibba.trade/announce
 http://i.bandito.org/announce
@@ -26,14 +23,13 @@ http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://p4p.arenabg.com:1337/announce
 http://peersteers.org/announce
-http://retracker.joxnet.ru/announce
 http://retracker.ohys.net/announce
+http://retracker.x2k.ru/announce
 http://rotracker.ohys.net/announce
 http://rstracker.ohys.net/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
-http://torrent-team.net/announce
 http://torrent.mp3quran.net/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
@@ -64,7 +60,6 @@ http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
 http://trackers.ibzu.me/announce
 http://uatracker.net/announce
-http://www.all4nothin.net/announce
 http://www.ansktracker.net/announce
 http://www.bitseduce.com/announce
 http://www.siambt.com/announce
