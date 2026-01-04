@@ -1,4 +1,3 @@
-https://1337.abcvg.info/announce
 https://bt.ptlsp.com/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
@@ -19,4 +18,3 @@ https://tracker.uraniumhexafluori.de/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
-https://trackers.ptlsp.com/announce
