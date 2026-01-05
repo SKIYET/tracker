@@ -5,10 +5,10 @@ http://185.230.4.150:1337/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
 http://all4nothin.net/announce
+http://asiatorrent.giize.com:51413/announce
 http://big-boss-tracker.net/announce
 http://bithq.org/announce
 http://bt.3kb.xyz/announce
-http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
@@ -25,8 +25,8 @@ http://open.stealth.si/announce
 http://p4p.arenabg.com:1337/announce
 http://peersteers.org/announce
 http://retracker.ohys.net/announce
+http://retracker.x2k.ru/announce
 http://rotracker.ohys.net/announce
-http://rstracker.ohys.net/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
@@ -41,6 +41,7 @@ http://tracker-udp.anirena.com/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
+http://tracker.dm258.cn:7070/announce
 http://tracker.enitin.xyz/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
@@ -50,6 +51,9 @@ http://tracker.tfile.co/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
+http://tracker.xfapi.top:6868/announce
+http://tracker.xfapi.top:7070/announce
+http://tracker.xfapi.top:9999/announce
 http://tracker.zhuqiy.top/announce
 http://tracker1.torrentino.com/announce
 http://tracker2.torrentino.com/announce
