@@ -1,6 +1,5 @@
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
-http://1337.abcvg.info/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
 http://all4nothin.net/announce
@@ -21,7 +20,6 @@ http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.ohys.net/announce
 http://retracker.x2k.ru/announce
-http://rotracker.ohys.net/announce
 http://rstracker.ohys.net/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
@@ -36,6 +34,7 @@ http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.enitin.xyz/announce
 http://tracker.fansub.id/announce
+http://tracker.file09.com/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.openzim.org/announce
@@ -43,7 +42,6 @@ http://tracker.tfile.co/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
-http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
@@ -60,7 +58,6 @@ http://www.bitseduce.com/announce
 http://www.siambt.com/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
-https://1337.abcvg.info/announce
 https://bt.beatrice-raws.org/announce
 https://edge-team.cc/announce
 https://retracker.x2k.ru/announce
@@ -69,7 +66,6 @@ https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
 https://t.quic.ws/announce
-https://torrent.tracker.durukanbal.com/announce
 https://torrentonline.cc/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
@@ -81,6 +77,7 @@ https://tracker.madtia.cc/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
 https://tracker.uraniumhexafluori.de/announce
+https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
 udp://0205.uptm.ch:6969/announce
