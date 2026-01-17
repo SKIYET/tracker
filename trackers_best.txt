@@ -1,6 +1,7 @@
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
 http://193.31.26.113:6969/announce
+http://216.144.239.90:6969/announce
 http://51.68.122.172/announce
 http://93.88.129.16/announce
 http://bithq.org/announce
@@ -18,7 +19,6 @@ http://nagios.tks.sumy.ua/announce
 http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
-http://retracker.joxnet.ru/announce
 http://retracker.ohys.net/announce
 http://retracker.x2k.ru/announce
 http://rotracker.ohys.net/announce
@@ -30,7 +30,6 @@ http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
 http://torrentzilla.org/announce
-http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
@@ -42,7 +41,6 @@ http://tracker.openzim.org/announce
 http://tracker.tfile.co/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
-http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
@@ -59,16 +57,16 @@ http://www.siambt.com/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
 https://bt.beatrice-raws.org/announce
+https://edge-team.cc/announce
 https://retracker.x2k.ru/announce
-https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
-https://tr.nyacat.pw/announce
+https://torrent.tracker.durukanbal.com/announce
+https://torrentonline.cc/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
-https://tracker.cyber-hub.net/announce
 https://tracker.iochimari.moe/announce
 https://tracker.keepfrds.com/announce
 https://tracker.madtia.cc/announce
@@ -1072,6 +1070,8 @@ udp://tracker.novaopcj.eu.org:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-internet.nl:6969/announce
+udp://tracker.openbittorrent.com:6969/announce
+udp://tracker.openbittorrent.com:80/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
