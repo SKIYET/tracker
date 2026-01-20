@@ -3,6 +3,7 @@ http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
+http://51.68.122.172/announce
 http://bithq.org/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
@@ -60,6 +61,7 @@ http://www.ansktracker.net/announce
 http://www.siambt.com/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
+https://1337.abcvg.info/announce
 https://bt.beatrice-raws.org/announce
 https://edge-team.cc/announce
 https://retracker.x2k.ru/announce
@@ -67,8 +69,6 @@ https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
-https://torrent.tracker.durukanbal.com/announce
-https://torrentonline.cc/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
@@ -799,6 +799,7 @@ udp://ch3oh.ru:6969/announce
 udp://chihaya.de:6969/announce
 udp://chihaya.toss.li:9696/announce
 udp://city21.pk:6969/announce
+udp://cloud.arzanmodern.ir:6969/announce
 udp://cn.pcfreetime.com:6969/announce
 udp://commento.getblog.cn:6969/announce
 udp://concen.org:6969/announce
@@ -997,6 +998,7 @@ udp://trackarr.org:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker-de.ololosh.space:6969/announce
 udp://tracker-udp.anirena.com:80/announce
+udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.1337x.org:80/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.4.babico.name.tr:3131/announce
