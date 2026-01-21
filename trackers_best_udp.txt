@@ -876,7 +876,6 @@ udp://shizzle.hammetjus.nl:6969/announce
 udp://smtp-relay.odysseylabel.com.au:6969/announce
 udp://smurfsoft.com:6969/announce
 udp://soundmovie.ru:6969/announce
-udp://srv5.digiboy.ir:6969/announce
 udp://ssb14.nohost.me:6969/announce
 udp://static.46.73.46.78.clients.your-server.de:8000/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
@@ -908,7 +907,6 @@ udp://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.cili001.com:8070/announce
 udp://tr3.ysagin.top:2715/announce
-udp://tr4ck3r.duckdns.org:6969/announce
 udp://trackarr.org:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker-de.ololosh.space:6969/announce
