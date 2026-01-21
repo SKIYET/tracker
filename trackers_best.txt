@@ -7,7 +7,6 @@ http://51.68.122.172/announce
 http://bithq.org/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
-http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://concen.org:6969/announce
@@ -38,6 +37,7 @@ http://tracker-udp.anirena.com/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
+http://tracker.dm258.cn:7070/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
@@ -61,7 +61,6 @@ http://www.ansktracker.net/announce
 http://www.siambt.com/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
-https://1337.abcvg.info/announce
 https://bt.beatrice-raws.org/announce
 https://edge-team.cc/announce
 https://retracker.x2k.ru/announce
@@ -69,13 +68,16 @@ https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
+https://torrentonline.cc/announce
 https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
+https://tracker.bug38.com/announce
 https://tracker.iochimari.moe/announce
 https://tracker.keepfrds.com/announce
 https://tracker.madtia.cc/announce
+https://tracker.maya.no.eu.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
 https://tracker.uraniumhexafluori.de/announce
@@ -961,7 +963,6 @@ udp://shizzle.hammetjus.nl:6969/announce
 udp://smtp-relay.odysseylabel.com.au:6969/announce
 udp://smurfsoft.com:6969/announce
 udp://soundmovie.ru:6969/announce
-udp://srv5.digiboy.ir:6969/announce
 udp://ssb14.nohost.me:6969/announce
 udp://static.46.73.46.78.clients.your-server.de:8000/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
@@ -1191,4 +1192,3 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
-wss://tracker.webtorrent.dev:443/announce
