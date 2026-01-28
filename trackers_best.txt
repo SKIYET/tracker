@@ -4,7 +4,6 @@ http://1337.abcvg.info/announce
 http://185.230.4.150:1337/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
-http://51.68.122.172/announce
 http://bithq.org/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
@@ -24,6 +23,7 @@ http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://p4p.arenabg.com:1337/announce
 http://peersteers.org/announce
+http://retracker.joxnet.ru/announce
 http://retracker.ohys.net/announce
 http://retracker.x2k.ru/announce
 http://rotracker.ohys.net/announce
@@ -40,7 +40,6 @@ http://tracker-udp.anirena.com/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
-http://tracker.dm258.cn:7070/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
@@ -64,7 +63,6 @@ http://www.ansktracker.net/announce
 http://www.siambt.com/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
-https://1337.abcvg.info/announce
 https://bt.beatrice-raws.org/announce
 https://edge-team.cc/announce
 https://retracker.x2k.ru/announce
@@ -80,13 +78,13 @@ https://tracker.bt4g.com/announce
 https://tracker.iochimari.moe/announce
 https://tracker.keepfrds.com/announce
 https://tracker.madtia.cc/announce
-https://tracker.maya.no.eu.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
 https://tracker.uraniumhexafluori.de/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
+https://www.wareztorrent.com/announce
 udp://0205.uptm.ch:6969/announce
 udp://103.122.21.50:6969/announce
 udp://103.251.166.126:6969/announce
@@ -985,7 +983,6 @@ udp://thagoat.rocks:6969/announce
 udp://themaninashed.com:6969/announce
 udp://theodoric.fr:6969/announce
 udp://thetracker.org:80/announce
-udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tk.cubicview.site:80/announce
 udp://torrent.fedoraproject.org:6969/announce
@@ -1139,6 +1136,7 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zer0day.to:1337/announce
 udp://tracker.zerobytes.xyz:1337/announce
+udp://tracker.zum.bi:6969/announce
 udp://tracker.zupix.online:1333/announce
 udp://tracker.zupix.online:6969/announce
 udp://tracker0.ufibox.com:6969/announce
@@ -1199,4 +1197,3 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
-wss://tracker.webtorrent.dev:443/announce
