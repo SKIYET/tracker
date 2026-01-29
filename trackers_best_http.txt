@@ -2,16 +2,10 @@ http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
-http://34.66.57.33:11450/announce
-http://34.66.57.33:2701/announce
-http://34.66.57.33:6969/announce
-http://blackz.ro/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
-http://bt1.xxxxbt.cc:6969/announce
-http://buny.uk:6969/announce
 http://extracker.dahrkael.net:6969/announce
 http://grifon.info/announce
 http://h4.trakx.nibba.trade/announce
@@ -23,8 +17,8 @@ http://nagios.tks.sumy.ua/announce
 http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
+http://retracker.joxnet.ru/announce
 http://retracker.ohys.net/announce
-http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
 http://rotracker.ohys.net/announce
 http://rstracker.ohys.net/announce
@@ -35,7 +29,6 @@ http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
 http://torrentzilla.org/announce
-http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
@@ -55,10 +48,8 @@ http://tracker2.torrentino.com/announce
 http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
-http://tracker810.xyz:11450/announce
 http://uatracker.net/announce
 http://www.ansktracker.net/announce
 http://www.siambt.com/announce
-http://www.torrentsnipe.info:2701/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
