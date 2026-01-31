@@ -3,10 +3,7 @@ http://125.227.79.123/announce
 http://1337.abcvg.info/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
-http://93.88.129.16/announce
 http://bt.beatrice-raws.org/announce
-http://bt.okmp3.ru:2710/announce
-http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://extracker.dahrkael.net:6969/announce
 http://ftp.pet:6969/announce
@@ -20,6 +17,7 @@ http://nagios.tks.sumy.ua/announce
 http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
+http://retracker.joxnet.ru/announce
 http://retracker.ohys.net/announce
 http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
