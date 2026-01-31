@@ -2,7 +2,7 @@ http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
-http://bt.beatrice-raws.org/announce
+http://asiatorrent.giize.com:51413/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
@@ -40,6 +40,9 @@ http://tracker.openzim.org/announce
 http://tracker.tfile.co/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
+http://tracker.waaa.moe:6969/announce
+http://tracker.xfapi.top:6868/announce
+http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.top/announce
 http://tracker1.torrentino.com/announce
@@ -53,7 +56,6 @@ http://www.siambt.com/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
 https://1337.abcvg.info/announce
-https://bt.beatrice-raws.org/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
@@ -853,7 +855,6 @@ udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jeremylee.sh:6969/announce
 udp://joczo.duckdns.org:6969/announce
-udp://johnrosen1.com:6969/announce
 udp://jutone.com:6969/announce
 udp://jvavav.com:6969/announce
 udp://kingof.torrentonline.cc:42069/announce
@@ -1122,6 +1123,7 @@ udp://tracker.v6speed.org:6969/announce
 udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vraphim.com:6969/announce
 udp://tracker.waaa.moe:6969/announce
+udp://tracker.wepzone.net:6969/announce
 udp://tracker.x6c.co:6969/announce
 udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.ygsub.com:6969/announce
@@ -1163,6 +1165,7 @@ udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://vibe.community:6969/announce
 udp://vps02.net.orel.ru:80/announce
 udp://wegkxfcivgx.ydns.eu:80/announce
+udp://wepzone.net:6969/announce
 udp://wg.mortis.me:6969/announce
 udp://widemus.de:6969/announce
 udp://www.2600.com:6969/announce
@@ -1187,7 +1190,7 @@ wss://qot.abiir.top:443/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.files.fm:7073/announce
 wss://tracker.ghostchu-services.top:443/announce
-wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.webtorrent.dev:443/announce
