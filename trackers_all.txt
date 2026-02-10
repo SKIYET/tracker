@@ -2660,6 +2660,7 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 udp://nullzone.fr:6969/announce
 udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
+udp://onioniot.tk:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://open.4ever.tk:6969/announce
 udp://open.8a.is:6969/announce
