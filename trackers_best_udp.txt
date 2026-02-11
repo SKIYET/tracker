@@ -262,6 +262,7 @@ udp://189.79.13.111:6969/announce
 udp://190.146.242.81:6969/announce
 udp://191.101.229.236:1337/announce
 udp://191.23.121.129:6969/announce
+udp://191.23.62.111:6969/announce
 udp://191.23.62.147:6969/announce
 udp://191.23.71.103:6969/announce
 udp://191.23.71.193:6969/announce
@@ -1095,6 +1096,7 @@ udp://tracker2.dler.org:80/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker3.t-1.org:6969/announce
 udp://tracker4.itzmx.com:2710/announce
+udp://tracker4.piratux.com:6969/announce
 udp://trackerb.jonaslsa.com:6969/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 udp://ts.populargamers.co.za:6969/announce
