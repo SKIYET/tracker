@@ -1,10 +1,13 @@
+http://0d.kebhana.mx:443/announce
 http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
-http://1337.abcvg.info/announce
+http://180.113.232.20:6969/announce
 http://193.31.26.113:6969/announce
+http://216.144.239.90:6969/announce
+http://34.66.57.33:2710/announce
+http://34.66.57.33:443/announce
 http://93.88.129.16/announce
 http://bt.beatrice-raws.org/announce
-http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
@@ -22,6 +25,8 @@ http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
+http://seeders-paradise.org/announce
+http://shubt.net:2710/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
@@ -33,6 +38,7 @@ http://tracker-udp.anirena.com/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
+http://tracker.bz/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
@@ -348,6 +354,7 @@ udp://191.23.121.129:6969/announce
 udp://191.23.62.111:6969/announce
 udp://191.23.62.147:6969/announce
 udp://191.23.71.103:6969/announce
+udp://191.23.71.131:6969/announce
 udp://191.23.71.193:6969/announce
 udp://191.23.71.22:6969/announce
 udp://191.23.94.237:6969/announce
@@ -1226,3 +1233,4 @@ wss://tracker.magnetoo.io/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com/announce
 wss://tracker.openwebtorrent.com:443/announce
+wss://tracker.webtorrent.dev:443/announce
