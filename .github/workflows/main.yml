@@ -3,7 +3,7 @@ name: Daily Update Tracker
 on:
   schedule:
     - cron: '0 */3 * * *'
-
+  workflow_dispatch:
 env:
   innoextract_version: 1.9
   arch: amd64
