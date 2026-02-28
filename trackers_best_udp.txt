@@ -898,6 +898,7 @@ udp://public.tracker.vraphim.com:6969/announce
 udp://pxnet.ru:6969/announce
 udp://qg.lorzl.gq:2710/announce
 udp://r.l5.ca:6969/announce
+udp://region.nl1.privex.cc:6969/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.akado-ural.ru:80/announce
