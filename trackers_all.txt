@@ -1162,6 +1162,7 @@ http://tracker.kmzs123.com/announce
 http://tracker.ktxp.com:6868/announce
 http://tracker.ktxp.com:7070/announce
 http://tracker.kuroy.me:5944/announce
+http://tracker.leechshield.link:443/announce
 http://tracker.leena.network:6969/announce
 http://tracker.lelux.fi/announce
 http://tracker.letpo.com/announce
@@ -2521,6 +2522,7 @@ udp://bt1.archive.org:6969/announce
 udp://bt1.xxxxbt.cc:6969/announce
 udp://bt2.54new.com:8080/announce
 udp://bt2.archive.org:6969/announce
+udp://btfans.3322.org:8000/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
