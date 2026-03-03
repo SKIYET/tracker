@@ -2699,6 +2699,7 @@ udp://npge.nprotect.com:6969/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 udp://ns3109441.mypdns.org:6969/announce
+udp://ns389251.ovh.net:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://nullzone.fr:6969/announce
 udp://odd-hd.fr:6969/announce
@@ -3128,6 +3129,7 @@ udp://ulfbrueggemann.no-ip.org:6969/announce
 udp://unknownsite.de:6969/announce
 udp://uploads.gamecoast.net:6969/announce
 udp://us-tracker.publictracker.xyz:6969/announce
+udp://uskr.m3x.org:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
