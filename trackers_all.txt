@@ -1168,6 +1168,7 @@ http://tracker.lelux.fi/announce
 http://tracker.letpo.com/announce
 http://tracker.linkomanija.org:2710/announce
 http://tracker.lintk.me:2710/announce
+http://tracker.linvk.com:443/announce
 http://tracker.loadbt.com:6969/announce
 http://tracker.lyretain.site:2710/announce
 http://tracker.m-team.cc/announce
@@ -2490,6 +2491,7 @@ udp://astrra.space:6969/announce
 udp://auratorrent.pl:8089/announce
 udp://axell24.ru:6969/announce
 udp://bananas.space:6969/announce
+udp://bandari.org:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://bclearning.top:6969/announce
 udp://bedro.cloud:6969/announce
@@ -2598,6 +2600,7 @@ udp://freedomalternative.com:6969/announce
 udp://ftp.pet:2710/announce
 udp://globalwave.no-ip.org:6969/announce
 udp://glotorrents.pw:6969/announce
+udp://h4.trakx.nibba.trade:80/announce
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
 udp://hbsy.zhuqiy.eu.org:6666/announce
 udp://hificode.in:6969/announce
