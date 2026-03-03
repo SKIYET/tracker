@@ -104,6 +104,7 @@ http://128.199.70.66:5944/announce
 http://129.146.193.240:6699/announce
 http://13.115.115.32:6969/announce
 http://1337.abcvg.info/announce
+http://1337.abcvg.info:443/announce
 http://138.124.183.78:6969/announce
 http://138.199.241.244/announce
 http://139.202.228.28:6969/announce
@@ -809,6 +810,7 @@ http://buny.uk:6969/announce
 http://bvarf.tracker.sh:2086/announce
 http://bz.tracker.bz/announce
 http://canardscitrons.nohost.me:6969/announce
+http://carapax.net:443/announce
 http://carbon-bonsai-621.appspot.com/announce
 http://ch3oh.ru:6969/announce
 http://chihaya.de/announce
@@ -1791,6 +1793,7 @@ udp://125.227.79.123:80/announce
 udp://128.199.70.66:5944/announce
 udp://130.61.158.165:6969/announce
 udp://132.226.6.145:6969/announce
+udp://1337.abcvg.info:80/announce
 udp://135.125.106.92:6969/announce
 udp://135.125.202.143:6969/announce
 udp://135.125.236.64:6969/announce
@@ -3153,6 +3156,7 @@ udp://www.nartlof.com.br:6969/announce
 udp://www.peckservers.com:9000/announce
 udp://www.theoccult.bz:3010/announce
 udp://www.torrent.eu.org:451/announce
+udp://www.torrentsnipe.info:2701/announce
 udp://www.tvnihon.com:6969/announce
 udp://x.hz.is:6969/announce
 udp://x.paranoid.agency:6969/announce
