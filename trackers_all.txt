@@ -2599,6 +2599,7 @@ udp://free.publictracker.xyz:6969/announce
 udp://freedom.1776.ga:6969/announce
 udp://freedomalternative.com:6969/announce
 udp://ftp.pet:2710/announce
+udp://git.vulnix.sh:6969/announce
 udp://globalwave.no-ip.org:6969/announce
 udp://glotorrents.pw:6969/announce
 udp://h4.trakx.nibba.trade:80/announce
