@@ -2789,6 +2789,7 @@ udp://shadowshq.eddie4.nl:6969/announce
 udp://shadowshq.yi.org:6969/announce
 udp://shizzle.hammetjus.nl:6969/announce
 udp://shogiroom.com:6969/announce
+udp://shubt.net:2710/announce
 udp://slicie.icon256.com:8000/announce
 udp://smtp-relay.odysseylabel.com.au:6969/announce
 udp://smtp.loki.tel:25/announce
@@ -2889,6 +2890,7 @@ udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.bontal.net:6969/announce
 udp://tracker.breizh.pm:6969/announce
+udp://tracker.bt-hash.com:443/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.btzoo.eu:80/announce
 udp://tracker.ccc.de:80/announce

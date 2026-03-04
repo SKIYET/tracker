@@ -922,6 +922,7 @@ udp://serpb.vpsburti.com:6969/announce
 udp://shadowshq.eddie4.nl:6969/announce
 udp://shadowshq.yi.org:6969/announce
 udp://shizzle.hammetjus.nl:6969/announce
+udp://shubt.net:2710/announce
 udp://smtp-relay.odysseylabel.com.au:6969/announce
 udp://smurfsoft.com:6969/announce
 udp://soundmovie.ru:6969/announce
@@ -979,6 +980,7 @@ udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.breizh.pm:6969/announce
+udp://tracker.bt-hash.com:443/announce
 udp://tracker.btzoo.eu:80/announce
 udp://tracker.christianbro.pw:6969/announce
 udp://tracker.cloaka.xyz:1337/announce
