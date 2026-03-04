@@ -997,6 +997,7 @@ http://shubt.net:2710/announce
 http://siambit.com/announce
 http://siambit.org/announce
 http://smurfsoft.com:6969/announce
+http://sparkle.ghostchu-services.top:443/announce
 http://speedtest.iperson.xyz:6969/announce
 http://sugoi.pomf.se/announce
 http://sukebei.tracker.wf:8888/announce
@@ -2495,6 +2496,7 @@ udp://app.icon256.com:8000/announce
 udp://astrr.ru:6969/announce
 udp://astrra.space:6969/announce
 udp://auratorrent.pl:8089/announce
+udp://aws1.millegrilles.com:6969/announce
 udp://axell24.ru:6969/announce
 udp://bananas.space:6969/announce
 udp://bandari.org:6969/announce
@@ -2945,6 +2947,7 @@ udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.fortu.io:6969/announce
 udp://tracker.frozen-layer.net:6969/announce
+udp://tracker.gbitt.info:443/announce
 udp://tracker.gigantino.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.grepler.com:6969/announce
