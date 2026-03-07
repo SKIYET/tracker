@@ -7,6 +7,7 @@ https://sparkle.ghostchu-services.top/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
 https://t1.tokhmi.xyz/announce
+https://torrent.opiums.eu/announce
 https://torrentonline.cc/announce
 https://tr-rh-zhuqiy.dgj055.icu/announce
 https://tr-zhuqiy-1.dgj055.icu/announce
@@ -20,7 +21,6 @@ https://tracker.bt4g.com/announce
 https://tracker.iochimari.moe/announce
 https://tracker.keepfrds.com/announce
 https://tracker.madtia.cc/announce
-https://tracker.manager.v6.navy/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
