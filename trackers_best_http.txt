@@ -1,5 +1,4 @@
 http://125.227.79.123/announce
-http://1337.abcvg.info/announce
 http://193.31.26.113:6969/announce
 http://195.123.209.40/announce
 http://216.144.239.90:6969/announce
@@ -20,13 +19,13 @@ http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
-http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
+http://torrent.unix-ag.uni-kl.de/announce
 http://tr.nyacat.pw/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce

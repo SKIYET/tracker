@@ -1,5 +1,4 @@
 http://125.227.79.123/announce
-http://1337.abcvg.info/announce
 http://193.31.26.113:6969/announce
 http://195.123.209.40/announce
 http://216.144.239.90:6969/announce
@@ -20,13 +19,13 @@ http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
-http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
+http://torrent.unix-ag.uni-kl.de/announce
 http://tr.nyacat.pw/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
@@ -53,6 +52,7 @@ http://uatracker.net/announce
 http://www.ansktracker.net/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
+https://bdremux.club/announce
 https://bt.beatrice-raws.org/announce
 https://edge-team.cc/announce
 https://http1.torrust-tracker-demo.com/announce
@@ -67,7 +67,9 @@ https://tr.nyacat.pw/announce
 https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
+https://tracker.iochimari.moe/announce
 https://tracker.keepfrds.com/announce
+https://tracker.leaves.red/announce
 https://tracker.madtia.cc/announce
 https://tracker.manager.v6.navy/announce
 https://tracker.qingwapt.org/announce
@@ -77,6 +79,7 @@ https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
 https://tracker2.leaves.red/announce
+https://tracker3.leaves.red/announce
 udp://0205.uptm.ch:6969/announce
 udp://10.rarbg.com:6969/announce
 udp://101.99.91.160:6969/announce
@@ -861,7 +864,6 @@ udp://commento.getblog.cn:6969/announce
 udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
 udp://cutiegirl.ru:6969/announce
-udp://cutscloud.duckdns.org:6969/announce
 udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://darkstarr.kozow.com:6881/announce
@@ -1199,6 +1201,7 @@ udp://tracker.yoshi210.com:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zer0day.to:1337/announce
+udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zum.bi:6969/announce
 udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
