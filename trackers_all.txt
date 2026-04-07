@@ -1222,6 +1222,7 @@ http://tracker.merded.xyz:8000/announce
 http://tracker.mg64.net:6881/announce
 http://tracker.minglong.org80/announce
 http://tracker.minglong.org:8080/announce
+http://tracker.moeblog.cn:443/announce
 http://tracker.moeking.me:6969/announce
 http://tracker.morian.icu:443/announce
 http://tracker.moxing.party:6969/announce
@@ -1234,6 +1235,7 @@ http://tracker.novalayer.org:6969/announce
 http://tracker.novaopcj.eu.org:6969/announce
 http://tracker.nucozer-tracker.ml:2710/announce
 http://tracker.nyaa.uk:6969/announce
+http://tracker.nyaa.vc:6969/announce
 http://tracker.nyaa2p.i2p/announce
 http://tracker.nyacat.pw:7000/announce
 http://tracker.nyap2p.com:8080/announce
