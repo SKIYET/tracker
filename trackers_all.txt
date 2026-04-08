@@ -1206,6 +1206,7 @@ http://tracker.kmzs123.com/announce
 http://tracker.ktxp.com:6868/announce
 http://tracker.ktxp.com:7070/announce
 http://tracker.kuroy.me:5944/announce
+http://tracker.leechshield.link:443/announce
 http://tracker.leena.network:6969/announce
 http://tracker.lelux.fi/announce
 http://tracker.letpo.com/announce
@@ -1360,6 +1361,7 @@ http://wegkxfcivgx.ydns.eu/announce
 http://wepzone.net:6969/announce
 http://wg.mortis.me:6969/announce
 http://widemus.de:6969/announce
+http://wtorrent.manalejandro.com:443/announce
 http://www.all4nothin.net/announce
 http://www.ansktracker.net/announce
 http://www.arabp2p.net:2052/f5a1e35785c9f3885fd54f34b6e262b8/announce
@@ -3179,6 +3181,7 @@ udp://tracker1.itzmx.com:8080/announce
 udp://tracker1.myporn.club:9337/announce
 udp://tracker1.t-1.org:6969/announce
 udp://tracker2.christianbro.pw:6969/announce
+udp://tracker2.dler.com/announce
 udp://tracker2.dler.com:80/announce
 udp://tracker2.dler.org:80/announce
 udp://tracker2.indowebster.com:6969/announce
