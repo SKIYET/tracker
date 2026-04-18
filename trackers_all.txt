@@ -29,6 +29,7 @@ http://110.187.214.29:6969/announce
 http://110.187.214.6:6969/announce
 http://110.187.215.166:6969/announce
 http://113.13.6.40:6969/announce
+http://113.16.155.111:6969/announce
 http://113.16.155.116:6969/announce
 http://113.16.155.146:6969/announce
 http://113.17.152.163:6969/announce
@@ -1719,6 +1720,7 @@ https://tracker.moeblog.cn/announce
 https://tracker.moeking.me/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.morian.icu/announce
+https://tracker.moviesdb.top/announce
 https://tracker.moxing.party:6969/announce
 https://tracker.mrhei.tech:666/announce
 https://tracker.nanoha.org/announce
