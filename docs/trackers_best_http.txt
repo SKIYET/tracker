@@ -2,6 +2,7 @@ http://004430.xyz/announce
 http://113.16.153.98:6969/announce
 http://1337.abcvg.info/announce
 http://140.235.237.23:6969/announce
+http://167.253.78.20:8080/announce
 http://172.245.168.134/announce
 http://189.18.126.49:6969/announce
 http://207.241.226.111:6969/announce
@@ -25,7 +26,6 @@ http://79.111.12.213:6969/announce
 http://91.98.161.68:6969/announce
 http://95.217.167.10:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
-http://asiatorrent.giize.com:51413/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://bittorrent.kali.org/announce
 http://bt.beatrice-raws.org/announce
@@ -37,7 +37,7 @@ http://bt.edwardk.info:676/announce
 http://bt.edwardk.info:6767/announce
 http://bt.edwardk.info:6969/announce
 http://bt.nnm-club.info:2710/announce
-http://bt.okmp3.ru:2710/announce
+http://bt.poletracker.org:2710/announce
 http://bt.zlofenix.org:81/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
@@ -59,7 +59,9 @@ http://ehtracker.org/2496841/announce
 http://ehtracker.org/2541477/announce
 http://ehtracker.org/2566145/1159106xUfsJkT9Btg/announce
 http://nyaa.tracker.wf:7777/announce
+http://open.trackerlist.xyz/announce
 http://opentracker.acgnx.se/announce
+http://opentrackr.org:1337/announce
 http://retracker.x2k.ru/announce
 http://sukebei.tracker.wf:8888/announce
 http://t-backup.213891.xyz/announce
@@ -91,17 +93,18 @@ http://tracker.gcvchp.com:2710/announce
 http://tracker.gigatorrents.ws:2710/announce
 http://tracker.kali.org:6969/announce
 http://tracker.linkomanija.org:2710/announce
+http://tracker.lintk.me:2710/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.novaopcj.eu.org:6969/announce
 http://tracker.nyaa.vc:6969/announce
+http://tracker.opentrackr.org:1337/announce
 http://tracker.openzim.org/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.swifte.space:2710/announce
-http://tracker.tritan.gg:8080/announce
 http://tracker.trojangogogo.site:8080/announce
 http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.waaa.moe:6969/announce
