@@ -18,8 +18,6 @@ http://211.75.210.221/announce
 http://211.75.210.221:6969/announce
 http://216.144.239.90:6969/announce
 http://31.38.161.123:6969/announce
-http://34.66.57.33:11450/announce
-http://34.66.57.33:443/announce
 http://37.120.182.83/announce
 http://37.120.182.83:2710/announce
 http://37.60.249.217:6969/announce
@@ -61,11 +59,11 @@ http://ehtracker.org/2496841/announce
 http://ehtracker.org/2541477/announce
 http://ehtracker.org/2566145/1159106xUfsJkT9Btg/announce
 http://ipv4announce.sktorrent.eu:6969/announce
-http://jvavav.com/announce
 http://lucke.fenesisu.moe:6969/announce
 http://ns3109441.mypdns.org:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://opentracker.acgnx.se/announce
+http://opentracker.xyz/announce
 http://opentrackr.org:1337/announce
 http://retracker.x2k.ru/announce
 http://retracker01-msk-virt.corbina.net/announce
@@ -103,14 +101,13 @@ http://tracker.merded.xyz:8000/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.nexusstream.eu:6969/announce
 http://tracker.novaopcj.eu.org:6969/announce
+http://tracker.nyaa.vc:6969/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.openzim.org/announce
-http://tracker.plx.im:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
-http://tracker.sbsub.com:2710/announce
 http://tracker.swifte.space:2710/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
