@@ -105,6 +105,7 @@ http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
+http://tracker.torrents.observer/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
