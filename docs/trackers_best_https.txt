@@ -1,3 +1,4 @@
+https://004430.xyz/announce
 https://1.tracker.eu.org/announce
 https://1337.abcvg.info/announce
 https://2.tracker.eu.org/announce
@@ -25,6 +26,7 @@ https://tracker.bt4g.com/announce
 https://tracker.foreverpirates.co/announce
 https://tracker.keepfrds.com/announce
 https://tracker.lenition.de/announce
+https://tracker.maya.no.eu.org/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moviesdb.top/announce
 https://tracker.nekomi.cn/announce
